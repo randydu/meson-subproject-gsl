@@ -42,7 +42,7 @@ in main.c:
 #include <gsl/assert>
 
 void foo(int x){
-    gsl::Expect(x > 0);
+    Expects(x >= 0);
 }
 ```
 
