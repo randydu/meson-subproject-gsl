@@ -5,7 +5,7 @@ URL:
 - [Microsoft GSL: Guidelines Support Library](https://github.com/microsoft/GSL);
 - [C++ Core Guidelines ](https://github.com/isocpp/CppCoreGuidelines);
 
-The subfolder "repo" is a clone of git repository of a specified release version. 
+The subfolder "src" is a clone of git repository of a specified release version. 
 unit-tests are not built as part of the meson-build.
 
 ## Versions
